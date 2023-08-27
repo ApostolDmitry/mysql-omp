@@ -4,3 +4,6 @@
 [submodule "lib/samp-ptl"]
 	path = lib/samp-ptl
 	url = https://github.com/katursis/samp-ptl.git
+[submodule "lib/cpptoml"]
+	path = lib/cpptoml
+	url = https://github.com/skystrife/cpptoml.git
